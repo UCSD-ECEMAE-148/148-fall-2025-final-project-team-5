@@ -1,0 +1,6 @@
+source;share/ucsd_robodog/hook/pythonpath.ps1
+source;share/ucsd_robodog/hook/pythonpath.dsv
+source;share/ucsd_robodog/hook/pythonpath.sh
+source;share/ucsd_robodog/hook/ament_prefix_path.ps1
+source;share/ucsd_robodog/hook/ament_prefix_path.dsv
+source;share/ucsd_robodog/hook/ament_prefix_path.sh

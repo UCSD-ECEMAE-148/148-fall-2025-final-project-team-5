@@ -1,0 +1,18 @@
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/__init__.py
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/gesture_detector_node.py
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/lidar_node.py
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/__pycache__/__init__.cpython-38.pyc
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/__pycache__/gesture_detector_node.cpython-38.pyc
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/__pycache__/lidar_node.cpython-38.pyc
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ament_index/resource_index/packages/ucsd_robodog
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ucsd_robodog/package.xml
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ucsd_robodog/launch/robodog.launch.py
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info/top_level.txt
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info/entry_points.txt
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info/SOURCES.txt
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info/PKG-INFO
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info/dependency_links.txt
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info/requires.txt
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info/zip-safe
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/ucsd_robodog/gesture_cmd_node
+/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/ucsd_robodog/lidar_test_executable = ucsd_robodog.lidar_node:maingesture_detector_node

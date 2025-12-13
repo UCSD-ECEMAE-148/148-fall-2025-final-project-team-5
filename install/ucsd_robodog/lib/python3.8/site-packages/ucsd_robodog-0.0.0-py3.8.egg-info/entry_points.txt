@@ -1,0 +1,4 @@
+[console_scripts]
+gesture_cmd_node = ucsd_robodog.gesture_cmd_node:main
+lidar_test_executable = ucsd_robodog.lidar_node:maingesture_detector_node = ucsd_robodog.gesture_detector_node:main
+

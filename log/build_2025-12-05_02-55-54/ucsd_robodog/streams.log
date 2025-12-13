@@ -1,0 +1,43 @@
+[0.871s] Invoking command in '/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog': PYTHONPATH=/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ucsd_robodog build --build-base /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build install --prefix /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog --record /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/install.log --single-version-externally-managed
+[1.143s] running egg_info
+[1.144s] creating build/ucsd_robodog/ucsd_robodog.egg-info
+[1.144s] writing build/ucsd_robodog/ucsd_robodog.egg-info/PKG-INFO
+[1.144s] writing dependency_links to build/ucsd_robodog/ucsd_robodog.egg-info/dependency_links.txt
+[1.144s] writing entry points to build/ucsd_robodog/ucsd_robodog.egg-info/entry_points.txt
+[1.144s] writing requirements to build/ucsd_robodog/ucsd_robodog.egg-info/requires.txt
+[1.145s] writing top-level names to build/ucsd_robodog/ucsd_robodog.egg-info/top_level.txt
+[1.146s] writing manifest file 'build/ucsd_robodog/ucsd_robodog.egg-info/SOURCES.txt'
+[1.184s] reading manifest file 'build/ucsd_robodog/ucsd_robodog.egg-info/SOURCES.txt'
+[1.185s] writing manifest file 'build/ucsd_robodog/ucsd_robodog.egg-info/SOURCES.txt'
+[1.185s] running build
+[1.185s] running build_py
+[1.185s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build
+[1.185s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib
+[1.185s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib/ucsd_robodog
+[1.185s] copying ucsd_robodog/__init__.py -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib/ucsd_robodog
+[1.186s] copying ucsd_robodog/gesture_detector_node.py -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib/ucsd_robodog
+[1.186s] copying ucsd_robodog/lidar_node.py -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib/ucsd_robodog
+[1.186s] running install
+[1.187s] running install_lib
+[1.188s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog
+[1.188s] copying /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib/ucsd_robodog/__init__.py -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog
+[1.189s] copying /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib/ucsd_robodog/gesture_detector_node.py -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog
+[1.189s] copying /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build/lib/ucsd_robodog/lidar_node.py -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog
+[1.189s] byte-compiling /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/__init__.py to __init__.cpython-38.pyc
+[1.191s] byte-compiling /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/gesture_detector_node.py to gesture_detector_node.cpython-38.pyc
+[1.193s] byte-compiling /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog/lidar_node.py to lidar_node.cpython-38.pyc
+[1.193s] running install_data
+[1.194s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ament_index
+[1.194s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ament_index/resource_index
+[1.194s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ament_index/resource_index/packages
+[1.194s] copying resource/ucsd_robodog -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ament_index/resource_index/packages
+[1.194s] copying package.xml -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ucsd_robodog
+[1.194s] creating /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ucsd_robodog/launch
+[1.196s] copying launch/robodog.launch.py -> /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/share/ucsd_robodog/launch
+[1.196s] running install_egg_info
+[1.197s] Copying build/ucsd_robodog/ucsd_robodog.egg-info to /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages/ucsd_robodog-0.0.0-py3.8.egg-info
+[1.200s] running install_scripts
+[1.220s] Installing gesture_cmd_node script to /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/ucsd_robodog
+[1.220s] Installing lidar_test_executable = ucsd_robodog.lidar_node:maingesture_detector_node script to /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/ucsd_robodog
+[1.220s] writing list of installed files to '/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/install.log'
+[1.263s] Invoked command in '/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog' returned '0': PYTHONPATH=/home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/ucsd_robodog build --build-base /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/build install --prefix /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/install/ucsd_robodog --record /home/projects/ros2_ws/src/ucsd_robocar_hub2/ucsd_robodog/build/ucsd_robodog/install.log --single-version-externally-managed
