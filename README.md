@@ -196,6 +196,7 @@
   <li>Left</li>
 </ul>
   
+<hr />
 
 <h2 id="#ros2-network">ROS 2 Network</h2>
 <p align="center">
