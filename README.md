@@ -1,5 +1,5 @@
 <h1>148-fall-2025-final-project-team-5</h1>
-//<p>148-fall-2025-final-project-team-5 created by GitHub Classroom</p>
+<p>148-fall-2025-final-project-team-5 created by GitHub Classroom</p>
 
 
 <!-- PROJECT LOGO -->
