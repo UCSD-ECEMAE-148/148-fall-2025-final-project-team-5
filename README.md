@@ -146,7 +146,7 @@
 
 <h2 id="final-project-videos">Final Project Videos</h2>
 <p>
-  Replace the image and video file names with your actual files in <code>images/</code> and <code>videos/</code>.
+  See below for the final product videos.
 </p>
 
 <div align="center">
