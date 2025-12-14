@@ -1,5 +1,6 @@
 <h1>148-fall-2025-final-project-team-5</h1>
 <p>148-fall-2025-final-project-team-5 created by GitHub Classroom</p>
+![ROS Architecture](images/ros_architecture.png)
 
 <!-- PROJECT LOGO -->
 <div align="center">
@@ -196,3 +197,7 @@
   <li>360 Room Clear</li>
   <li>Left/
 
+<h2 id="#ros2-network">ROS 2 Network</h2>
+<p align="center">
+  <img src="images/ros_architecture.png" alt="ROS Architecture" width="600">
+</p>
