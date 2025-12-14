@@ -194,7 +194,7 @@
   <li>Turn Right</li>
   <li>360 Room Clear</li>
   <li>Left</li>
-</ul>ul
+</ul>
   
 
 <h2 id="#ros2-network">ROS 2 Network</h2>
