@@ -198,8 +198,7 @@
   
 <hr />
 
-<li><a href="#ros2-network">ROS2 Network</a></li>
-<h2 id="#ros2-network">ROS 2 Network</h2>
+<h2 id="ros2-network">ROS 2 Network</h2>
 <p align="center">
   <img src="images/ros_architecture.png" alt="ROS Architecture" width="600">
 </p>
