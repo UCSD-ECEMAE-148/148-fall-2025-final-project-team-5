@@ -219,6 +219,29 @@
   <a href="videos/room%20clearing%20control%20demo%20(1).mp4">
     <img src="images/ezgif-371a4f158e13b9f1.gif" width="600" />
   </a>
+  <hr />
+
+<h2 id="project-photos">Project Photos</h2>
+
+<div align="center">
+
+  <p><strong>Team</strong></p>
+  <img src="images/IMG_1393.JPG" width="700" />
+
+  <p><strong>Electronics Box</strong></p>
+  <img src="images/IMG_1759.JPG" width="700" />
+
+  <p><strong>Vehicle Close-Up</strong></p>
+  <img src="images/IMG_1760.JPG" width="700" />
+
+  <p><strong>Working Session (Table)</strong></p>
+  <img src="images/IMG_1860.JPG" width="700" />
+
+  <p><strong>Field Testing</strong></p>
+  <img src="images/IMG_2501.JPG" width="700" />
+
+</div>
+
 </p>
 
 <hr />
