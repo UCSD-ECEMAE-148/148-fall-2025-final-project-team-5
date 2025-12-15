@@ -152,12 +152,12 @@
 
 <div align="center">
   <p><strong>Hand Gesture Demo</strong></p>
-  <a href="videos/hand_control_demo.mp4">
-    <img src="images/hand_control_demo.gif" alt="Hand Control Demo" width="600" />
+  <a href="videos/robocar_hand_detection_demo.mp4">
+    <img src="" alt="Hand Control Demo" width="600" />
   </a>
 
   <p><strong>Room Sweep + Gun Detection</strong></p>
-  <a href="videos/room_sweep_demo.mp4">
+  <a href="">
     <img src="images/room_sweep_demo.gif" alt="Room Sweep Gun Detection Demo" width="600" />
   </a>
 </div>
