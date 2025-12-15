@@ -147,7 +147,7 @@
 
 <h2 id="final-project-videos">Final Project Videos</h2>
 <p>
-  See below for the final product videos.
+  See below for the final product videos:
 </p>
 
 <div align="center">
@@ -215,8 +215,10 @@
 <hr />
 
 <h2 id="#course-deliverables">Course Deliverables</h2>
-<p>
-Insert videos here
+ <p><strong>Final Function of the RoboDog</strong></p>
+  <a href="videos/room%20clearing%20control%20demo%20(1).mp4">
+    <img src="images/ezgif-371a4f158e13b9f1.gif" width="600" />
+  </a>
 </p>
 
 <hr />
