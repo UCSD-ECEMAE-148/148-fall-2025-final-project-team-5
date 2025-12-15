@@ -152,14 +152,14 @@
 
 <div align="center">
   <p><strong>Hand Gesture Demo</strong></p>
-  <video width="600" controls>
-  <source src="videos/robocar hand detection demo (2).mp4" type="video/mp4">
-</video>
+  <a href="videos/robocar_hand_detection_demo.mp4">
+    <img src="images/ezgif-3500ed4f191ddbb8.gif" width="600" />
+  </a>
 
   <p><strong>Room Sweep + Gun Detection</strong></p>
-  <video width="600" controls>
-  <source src="videos/room clearning control demo (1).mp4" type="video/mp4">
-</video>
+  <a href="videos/room%20clearing%20control%20demo%20(1).mp4">
+    <img src="images/ezgif-371a4f158e13b9f1.gif" width="600" />
+  </a>
 
 </div>
 
