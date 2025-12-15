@@ -229,16 +229,16 @@
   <img src="images/IMG_1393.JPG" width="700" />
 
   <p><strong>Electronics Box</strong></p>
-  <img src="images/IMG_1759.JPG" width="700" />
+  <img src="images/IMG_1759.JPG" width="500" />
 
-  <p><strong>Vehicle Close-Up</strong></p>
-  <img src="images/IMG_1760.JPG" width="700" />
+  <p><strong>Vehicle Close Up</strong></p>
+  <img src="images/IMG_1760.JPG" width="500" />
 
-  <p><strong>Working Session (Table)</strong></p>
-  <img src="images/IMG_1860.JPG" width="700" />
+  <p><strong>In the Trenches</strong></p>
+  <img src="images/IMG_1860.JPG" width="500" />
 
-  <p><strong>Field Testing</strong></p>
-  <img src="images/IMG_2501.JPG" width="700" />
+  <p><strong>In the Trenches Field Testing</strong></p>
+  <img src="images/IMG_2501.JPG" width="500" />
 
 </div>
 
